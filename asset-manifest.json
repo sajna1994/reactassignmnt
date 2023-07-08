@@ -1,0 +1,16 @@
+{
+  "files": {
+    "main.css": "/reactassignmnt/static/css/main.073c9b0a.css",
+    "main.js": "/reactassignmnt/static/js/main.7fd661df.js",
+    "static/js/787.1795995c.chunk.js": "/reactassignmnt/static/js/787.1795995c.chunk.js",
+    "static/media/logo.svg": "/reactassignmnt/static/media/logo.6ce24c58023cc2f8fd88fe9d219db6c6.svg",
+    "index.html": "/reactassignmnt/index.html",
+    "main.073c9b0a.css.map": "/reactassignmnt/static/css/main.073c9b0a.css.map",
+    "main.7fd661df.js.map": "/reactassignmnt/static/js/main.7fd661df.js.map",
+    "787.1795995c.chunk.js.map": "/reactassignmnt/static/js/787.1795995c.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.073c9b0a.css",
+    "static/js/main.7fd661df.js"
+  ]
+}
